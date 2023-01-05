@@ -64,6 +64,28 @@ a{
     border: 3px solid #E9EDC9;
 }
 
+.ad-button {
+    margin:  0 ;
+    margin-top: 155px;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    border: 0;
+    background-color: #FEFAE0;
+    font-size:40px;
+    padding:0;
+}
+
+.ad-button img{
+    margin:10px;
+}
+
+#previous {
+    margin-left: 22px;
+}
+#next {
+    margin-left: 598px;
+}
 
 #goods{
     margin-top: 10px;
